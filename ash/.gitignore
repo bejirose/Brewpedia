@@ -1,0 +1,8 @@
+# iPython
+*.ipynb_checkpoints
+
+#Keys
+api_keys.py
+
+# OSX
+.DS_Store
